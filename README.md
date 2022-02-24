@@ -1,15 +1,28 @@
 
 
-#### :cactus: 你好，你看到是一头牛马的自我修养
+#### :cactus: 你好，以下看到的是一头牛马的自我修养
 
-<b style="color:#2da44e">简介：</b><br> <span style="
-    font-size: 14px;">
-    此人毕业于湖南文理电气智能化专业，大学期间人送外号 <font color=#21c0db >实验室小能手，数模电人形教材。</font><br>
-    毕业后从服务端到客户端，是江湖中让人闻风丧胆的增删改查机器人，前端表单狂魔。<br>
-    无论是toB的pc端中后台,还是toC的小程序,公众号,移动端h5皆不在话下。<br>
-    上可码业务改bug，下可搭框架写算法。<br>
-    是领导心中年轻力壮的好劳力,同事眼中解决问题的好帮手。<br>
-</span>
+ 
+```js 
+class Oujin extends Programmer{
+     constructor(){
+         super();
+         this.graduatedSchool='湖南文理学院'
+         this.profession = '电气智能化'
+         this.projectExperience = ['中后台','小程序','公众号','移动端h5']
+         this.description = '增删改查机器人,表单基建狂魔'+
+                         '领导心中推磨搬砖的好劳力,同事眼中甩锅推责的好对象'
+	}
+	writeJs(){
+		//...
+	}
+	writeJava(){
+		//...
+	}
+}
+```
+
+
  
 :herb:<b>以下是此人的拿手好活</b>
 <div style="display:flex">
@@ -35,14 +48,15 @@
 
 <div  style="display: inline-flex;">
     
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ou-jin)](https://github.com/anuraghazra/github-readme-stats)
  
-[![used-language](https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-zhang&layout=compact&hide=html)](https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-zhang&layout=compact&hide=html)
+[![total - contribution](https://github-readme-streak-stats.herokuapp.com/?user=ou-jin)](https://github-readme-streak-stats.herokuapp.com/ )
+[![used-language](https://github-readme-stats.vercel.app/api/top-langs/?username=ou-jin&layout=compact&hide=html)](https://github-readme-stats.vercel.app/api/top-langs/)
 </div>
 
 
 
-[![total - contribution](https://github-readme-streak-stats.herokuapp.com/?user=programmer-zhang )](https://github-readme-streak-stats.herokuapp.com/?user=programmer-zhang )
+
 
  
 
