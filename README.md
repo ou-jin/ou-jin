@@ -33,5 +33,16 @@
 
 [zhihu](https://www.zhihu.com/people/xie-dai-ma-ru-ci-you-qu "zhihu")
 
+<div  style="display: inline-flex;">
+    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ 
+[![used-language](https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-zhang&layout=compact&hide=html)](https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-zhang&layout=compact&hide=html)
+</div>
+
+
+
+[![total - contribution](https://github-readme-streak-stats.herokuapp.com/?user=programmer-zhang )](https://github-readme-streak-stats.herokuapp.com/?user=programmer-zhang )
+
+ 
 
