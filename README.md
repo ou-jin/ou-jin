@@ -1,6 +1,6 @@
 
 
-#### :cactus: 你好，你看到是一头牛马:water_buffalo: :horse:的自我修养
+#### :cactus: 你好，你看到是一头牛马的自我修养
 
 <b style="color:#2da44e">简介：</b> <span style="
     font-size: 14px;
